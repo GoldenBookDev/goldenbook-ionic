@@ -2,13 +2,13 @@
 
 ## Overview
 
-The Golden Book application focuses on providing a curated experience for guests staying in 4 and 5-star hotels in Portugal. The application showcases a collection of photographs and articles highlighting the city's most culturally significant landmarks, reviews of boutique stores, luxury brands, restaurants, and other businesses. The primary goal is to offer users a comprehensive guide with geolocation maps, up-to-date recommendations, personalized advertisements, and suggestions. Future enhancements may include features such as reservation capabilities, discount coupons, and more.
+Goldenbook application focuses on providing a curated experience for travelers and citizens in Portugal. The application showcases a collection of photographs and articles highlighting the city's most culturally significant landmarks, reviews of boutique stores, luxury brands, restaurants, hospitality and other businesses. The primary goal is to offer users a comprehensive guide with geolocation maps, up-to-date recommendations and personalized suggestions. Future enhancements may include features such as reservation capabilities, discount coupons, and more.
 
 ## Documentation Structure
 
 ### [Introduction](README.md)
 
-Welcome to the Golden Book project! In this section, you'll find a brief overview of the project's goals and its significance in enhancing the experience for hotel guests in Portugal.
+Welcome to Goldenbook's project! In this section, you'll find a brief overview of the project's goals and its significance in enhancing the experience for hotel guests in Portugal.
 
 ## :sparkles: Quick links
 
@@ -18,7 +18,7 @@ Welcome to the Golden Book project! In this section, you'll find a brief overvie
 
 ### :running: [How to Run the Project](#how-to-run-the-project)
 
-The architecture of the Golden Book project is designed for professionalism and scalability. Here are the key technological choices made:
+The architecture of the Goldenbook project is designed for professionalism and scalability. Here are the key technological choices made:
 
 #### Mobile Framework
 
